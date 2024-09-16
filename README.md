@@ -7,10 +7,10 @@
 - [Q4: Modern vs Legacy Enterprise Architecture](#q4-modern-vs-legacy-enterprise-architecture)
 - [Q5: Continuous Conversation and DevOps Infinity Loop](#q5-continuous-conversation-and-devops-infinity-loop)
 - [Q6: Core Integration Patterns for Messaging](#q6-core-integration-patterns-for-messaging)
-- [Q7: Conversations in Messaging Architecture](#q7-conversations-in-messaging-architecture)
+- [Q7: Messaging vs Conversation Architecture](#q7-conversations-in-messaging-architecture)
 - [Q8: Pattern Languages](#q8-pattern-languages)
-- [Q9: Strangler Pattern](#q9-strangler-pattern)
-- [Q10: Core Architecture Diagrams](#q10-core-architecture-diagrams)
+- [Q9: The Strangler Pattern in Modern Enterprise Architecture](#q9-strangler-pattern)
+- [Q10: Q10: Core Diagrams in Architecture](#q10-core-architecture-diagrams)
 
 ---
 
