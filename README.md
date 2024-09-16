@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Q1: Enterprise vs Solution Architecture](#q1-enterprise-vs-solution-architecture)
 - [Q2: Role of Teams in Modern Architecture](#q2-role-of-teams-in-modern-architecture)
-- [Q3: Centralized vs Decentralized Decisions](#q3-centralized-decisions-in-modern-architecture)
+- [Q3: Centralized vs Decentralized Decisions](#q3-centralized-vs-decentralized-decisions)
 - [Q4: Modern vs Legacy Enterprise Architecture](#q4-modern-vs-legacy-enterprise-architecture)
 - [Q5: Continuous Conversation and DevOps Infinity Loop](#q5-continuous-conversation-and-devops-infinity-loop)
 - [Q6: Core Integration Patterns for Messaging](#q6-core-integration-patterns-for-messaging)
