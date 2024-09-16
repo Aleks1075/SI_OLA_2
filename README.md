@@ -3,14 +3,14 @@
 ## Table of Contents
 - [Q1: Enterprise vs Solution Architecture](#q1-enterprise-vs-solution-architecture)
 - [Q2: Role of Teams in Modern Architecture](#q2-role-of-teams-in-modern-architecture)
-- [Q3: Centralized vs Decentralized Decisions](#q3-centralized-vs-decentralized-decisions)
+- [Q3: Centralized vs Decentralized Decisions](#q3-centralized-decisions-in-modern-architecture)
 - [Q4: Modern vs Legacy Enterprise Architecture](#q4-modern-vs-legacy-enterprise-architecture)
 - [Q5: Continuous Conversation and DevOps Infinity Loop](#q5-continuous-conversation-and-devops-infinity-loop)
 - [Q6: Core Integration Patterns for Messaging](#q6-core-integration-patterns-for-messaging)
-- [Q7: Messaging vs Conversation Architecture](#q7-conversations-in-messaging-architecture)
+- [Q7: Messaging vs Conversation Architecture](#q7-messaging-vs-conversation-architecture)
 - [Q8: Pattern Languages](#q8-pattern-languages)
-- [Q9: The Strangler Pattern in Modern Enterprise Architecture](#q9-strangler-pattern)
-- [Q10: Q10: Core Diagrams in Architecture](#q10-core-architecture-diagrams)
+- [Q9: The Strangler Pattern in Modern Enterprise Architecture](#q9-the-strangler-pattern-in-modern-enterprise-architecture)
+- [Q10: Core Diagrams in Architecture](#q10-core-diagrams-in-architecture)
 
 ---
 
